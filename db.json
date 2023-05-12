@@ -3,7 +3,30 @@
     {
       "name": "Andres",
       "telefono": "212313",
+      "ciudadId": 1,
       "id": 1
+    },
+    {
+      "name": "sandra",
+      "telefono": "212313",
+      "ciudadId": 2,
+      "id": 2
+    },
+    {
+      "name": "juan",
+      "telefono": "212313",
+      "ciudadId": 1,
+      "id": 3
+    }
+  ],
+  "ciudad": [
+    {
+      "id": 1,
+      "name": "cucuta"
+    },
+    {
+      "id": 2,
+      "name": "bucaramanga"
     }
   ]
 }
